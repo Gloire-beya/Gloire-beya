@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gloire-beya
+- 👋 Hi, I’m @Gloire-beya. A Spring Certified Professional && Java Software developer
 - 👀 I’m interested in Spring Boot, Java EE, Microservices, ...
 - 🌱 I’m currently learning AWS platform
 - 💞️ I’m looking to collaborate on project using Spring Boot
